@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/soccer_star/static/css/main.968e1346.css",
+    "main.js": "/soccer_star/static/js/main.8057c9be.js",
+    "static/js/787.b2c09fa8.chunk.js": "/soccer_star/static/js/787.b2c09fa8.chunk.js",
+    "static/media/terrain2.png": "/soccer_star/static/media/terrain2.7ea2bf127beb5d3f1338.png",
+    "static/media/terrain1.png": "/soccer_star/static/media/terrain1.fe82c190f3e6ea9ad0dc.png",
+    "index.html": "/soccer_star/index.html",
+    "main.968e1346.css.map": "/soccer_star/static/css/main.968e1346.css.map",
+    "main.8057c9be.js.map": "/soccer_star/static/js/main.8057c9be.js.map",
+    "787.b2c09fa8.chunk.js.map": "/soccer_star/static/js/787.b2c09fa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968e1346.css",
+    "static/js/main.8057c9be.js"
+  ]
+}
