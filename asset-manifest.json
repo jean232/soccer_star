@@ -1,17 +1,25 @@
 {
   "files": {
     "main.css": "/soccer_star/static/css/main.968e1346.css",
-    "main.js": "/soccer_star/static/js/main.8057c9be.js",
+    "main.js": "/soccer_star/static/js/main.0a2a826b.js",
     "static/js/787.b2c09fa8.chunk.js": "/soccer_star/static/js/787.b2c09fa8.chunk.js",
     "static/media/terrain2.png": "/soccer_star/static/media/terrain2.7ea2bf127beb5d3f1338.png",
+    "static/media/dribble4.png": "/soccer_star/static/media/dribble4.889ac3543891ef211d0e.png",
+    "static/media/terrainX.png": "/soccer_star/static/media/terrainX.3e28f517fccc3158bb16.png",
+    "static/media/dribble5.png": "/soccer_star/static/media/dribble5.f9ef8752468629a1d84c.png",
     "static/media/terrain1.png": "/soccer_star/static/media/terrain1.fe82c190f3e6ea9ad0dc.png",
+    "static/media/dribble1.png": "/soccer_star/static/media/dribble1.9b80ae449d978b856de6.png",
+    "static/media/dribble6.png": "/soccer_star/static/media/dribble6.013d454b81caafcfe74d.png",
+    "static/media/terrain0.png": "/soccer_star/static/media/terrain0.4c57b5f852d3f05e7040.png",
+    "static/media/dribble2.png": "/soccer_star/static/media/dribble2.07f19b51846257696915.png",
+    "static/media/dribble3.png": "/soccer_star/static/media/dribble3.7974e010819f3afdb0ee.png",
     "index.html": "/soccer_star/index.html",
     "main.968e1346.css.map": "/soccer_star/static/css/main.968e1346.css.map",
-    "main.8057c9be.js.map": "/soccer_star/static/js/main.8057c9be.js.map",
+    "main.0a2a826b.js.map": "/soccer_star/static/js/main.0a2a826b.js.map",
     "787.b2c09fa8.chunk.js.map": "/soccer_star/static/js/787.b2c09fa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.968e1346.css",
-    "static/js/main.8057c9be.js"
+    "static/js/main.0a2a826b.js"
   ]
 }
