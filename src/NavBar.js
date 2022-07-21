@@ -4,7 +4,7 @@ const Navbar = () => {
     return ( 
         <nav className="navbar  navbar-expand-sm bg-ligh mb-3 py-2" >
             <div className="container">
-                <a href="/" className="navbar-brand">Soccer Star</a>
+                <a href="/Home" className="navbar-brand">Soccer Star</a>
             </div>
             
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
